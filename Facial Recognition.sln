@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facial Recognition", "Assembly-CSharp.csproj", "{276785F5-C4EA-B76C-D5F6-2B094F2745AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facial Recognition", "Assembly-CSharp-Editor.csproj", "{AC63A125-4CB2-70D4-22C0-9A719892FD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276785F5-C4EA-B76C-D5F6-2B094F2745AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276785F5-C4EA-B76C-D5F6-2B094F2745AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276785F5-C4EA-B76C-D5F6-2B094F2745AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276785F5-C4EA-B76C-D5F6-2B094F2745AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC63A125-4CB2-70D4-22C0-9A719892FD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC63A125-4CB2-70D4-22C0-9A719892FD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC63A125-4CB2-70D4-22C0-9A719892FD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC63A125-4CB2-70D4-22C0-9A719892FD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
